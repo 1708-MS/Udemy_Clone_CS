@@ -1,0 +1,39 @@
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.deps.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.AssemblyReference.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfoInputs.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfo.cs
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.CoreCompileInputs.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\refint\Udemy_WebApp.Application.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\ref\Udemy_WebApp.Application.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.deps.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.AssemblyReference.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfoInputs.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfo.cs
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.CoreCompileInputs.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\refint\Udemy_WebApp.Application.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\ref\Udemy_WebApp.Application.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.deps.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Domain.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.AssemblyReference.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfoInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.AssemblyInfo.cs
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.CoreCompileInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.csproj.CopyComplete
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\refint\Udemy_WebApp.Application.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Application\obj\Debug\net6.0\ref\Udemy_WebApp.Application.dll

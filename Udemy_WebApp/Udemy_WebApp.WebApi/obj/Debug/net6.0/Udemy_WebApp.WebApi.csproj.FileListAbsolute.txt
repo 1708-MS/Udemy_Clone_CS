@@ -1,0 +1,240 @@
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.exe
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.deps.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.runtimeconfig.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.AssemblyReference.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfoInputs.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfo.cs
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CoreCompileInputs.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Udemy_WebApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Udemy_WebApp.WebApi.props
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Udemy_WebApp.WebApi.props
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Udemy_WebApp.WebApi.props
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\scopedcss\bundle\Udemy_WebApp.WebApi.styles.css
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CopyComplete
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\refint\Udemy_WebApp.WebApi.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.genruntimeconfig.cache
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\ref\Udemy_WebApp.WebApi.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Humanizer.dll
+F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.AssemblyReference.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfoInputs.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfo.cs
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CoreCompileInputs.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.exe
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.deps.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.runtimeconfig.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Humanizer.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Udemy_WebApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Udemy_WebApp.WebApi.props
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Udemy_WebApp.WebApi.props
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Udemy_WebApp.WebApi.props
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\scopedcss\bundle\Udemy_WebApp.WebApi.styles.css
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CopyComplete
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\refint\Udemy_WebApp.WebApi.dll
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.genruntimeconfig.cache
+E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\ref\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.exe
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.deps.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.runtimeconfig.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\AutoMapper.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Humanizer.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.AssemblyReference.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfoInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfo.cs
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CoreCompileInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Udemy_WebApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Udemy_WebApp.WebApi.props
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Udemy_WebApp.WebApi.props
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Udemy_WebApp.WebApi.props
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\scopedcss\bundle\Udemy_WebApp.WebApi.styles.css
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CopyComplete
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\refint\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.genruntimeconfig.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\ref\Udemy_WebApp.WebApi.dll
