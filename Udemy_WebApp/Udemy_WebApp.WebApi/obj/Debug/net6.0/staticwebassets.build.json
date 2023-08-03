@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "3/G+vtNIzsIT48T0mYPB5IVvxQOmd+KyfqVw4t84zfQ=",
+  "Hash": "mw831CazHZRhOS09wfP4O2V/8anwHgFxgfu7GPag17E=",
   "Source": "Udemy_WebApp.WebApi",
   "BasePath": "_content/Udemy_WebApp.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Udemy_WebApp.WebApi\\wwwroot",
+      "Source": "Udemy_WebApp.WebApi",
+      "ContentRoot": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/Udemy_WebApp.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\Course1\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg",
+      "SourceId": "Udemy_WebApp.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/Udemy_WebApp.WebApi",
+      "RelativePath": "Course1/Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Course1\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg"
+    },
+    {
+      "Identity": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\Course123\\wp11165768-switzerland-4k-wallpapers.jpg",
+      "SourceId": "Udemy_WebApp.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\",
+      "BasePath": "_content/Udemy_WebApp.WebApi",
+      "RelativePath": "Course123/wp11165768-switzerland-4k-wallpapers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Course123\\wp11165768-switzerland-4k-wallpapers.jpg"
+    }
+  ]
 }

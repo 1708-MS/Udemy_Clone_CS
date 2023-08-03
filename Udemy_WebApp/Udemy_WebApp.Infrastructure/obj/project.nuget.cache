@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xU6xWxFK0OnTLdnyqmsZ1GsZz5gfXWxu2gtjoqr7pX3VpBhBVzVhDPptGWX3olqbdApiAJwkbsNMehZmZ7iNgQ==",
+  "dgSpecHash": "HRce5sRzJf98K+gcXdoXf5EX1kGl/xDBeJYrXlX1BaQCMKWZxK20A5LmYIDQ+NcL0OfTVmuH4ac/Dr3a03bB0A==",
   "success": true,
   "projectFilePath": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.Infrastructure\\Udemy_WebApp.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
-    "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.20\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
@@ -68,6 +68,7 @@
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Dotnet\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

@@ -31,5 +31,6 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.Repository
         public ILanguageRepository LanguageRepository { get; private set; }
         public ILevelRepository LevelRepository { get; private set; }
         public ICourseRepository CourseRepository { get; private set; }
+        public IRepository<CourseVideo> CourseVideosRepository { get; private set; }
     }
 }

@@ -28,7 +28,7 @@ namespace Udemy_WebApp.WebApi.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             // Gets all of the Course Levels from the database using the GetAllAsync() method of the LevelRepository 
-            var levelsFromDb = await _unitOfWork.LevelRepository.GetAllAsync();
+            var levelsFromDb = await _unitOfWork.LevelRepository.GetAllAsync(includeproperties:"Courses");
             // If no Level found then return NotFound error with message
             if (levelsFromDb == null) return NotFound("No Course Levels found in the database.");
             return Ok(levelsFromDb);
@@ -74,8 +74,8 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.LevelRepository.AddAsync(level);
             _unitOfWork.Save();
             // Map the created Level back to the levelDto and return it as an OK response with the details of the added new Level Name
-            var createdLevelDto = _mapper.Map<LevelDto>(level);
-            return Ok(createdLevelDto);
+            var createdLevel = _mapper.Map<LevelDto>(level);
+            return Ok(createdLevel);
         }
 
         /// <summary>
@@ -101,8 +101,8 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.LevelRepository.UpdateAsync(level);
             _unitOfWork.Save();
             // Map the updated Level back to levelDto and return it as an OK response with the full details of the updated Level.
-            var updatedLevelDto = _mapper.Map<LevelDto>(level);
-            return Ok(updatedLevelDto);
+            var updatedLevel = _mapper.Map<LevelDto>(level);
+            return Ok(updatedLevel);
         }
 
         /// <summary>

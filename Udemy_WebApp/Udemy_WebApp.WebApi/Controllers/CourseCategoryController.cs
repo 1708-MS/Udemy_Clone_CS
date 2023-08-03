@@ -32,11 +32,11 @@ namespace Udemy_WebApp.WebApi.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             // Gets all of the Course Categories from the database using the GetAllAsync() method of the CourseCategoryRepository 
-            var categoryFromDb = await _unitOfWork.CourseCategoryRepository.GetAllAsync();
+            var categoryFromDb = await _unitOfWork.CourseCategoryRepository.GetAllAsync(includeproperties: "Courses" );
             // If no Category found then return NotFound error with message
             if (categoryFromDb == null) return NotFound("No Course Categories exists in the database.");
-            //var categoryDtos = _mapper.Map<IEnumerable<CourseCategoryDto>>(categories);
-            return Ok(categoryFromDb);
+            var categoryDtos = _mapper.Map<IEnumerable<CourseCategoryDto>>(categoryFromDb);
+            return Ok(categoryDtos);
         }
 
         /// <summary>
@@ -80,9 +80,9 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.CourseCategoryRepository.AddAsync(courseCategory);
             _unitOfWork.Save();
             // Map the created CourseCategory back to the CourseCategoryDto and return it as an OK response with the details of the added new CourseCategory Name
-            var createdCategoryDto = _mapper.Map<CourseCategoryDto>(courseCategory);
+            var createdCategory = _mapper.Map<CourseCategoryDto>(courseCategory);
             //return CreatedAtAction(nameof(GetCourseCategories), new { id = createdCategoryDto.CourseCategoryId }, createdCategoryDto);
-            return Ok(createdCategoryDto);
+            return Ok(createdCategory);
         }
 
         /// <summary>
@@ -108,8 +108,8 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.CourseCategoryRepository.UpdateAsync(category);
             _unitOfWork.Save();
             // Map the updated CourseCategory back to CourseCategoryDto and return it as an OK response with the full details of the updated CourseCategory.
-            var updatedCourseCategoryDto = _mapper.Map<CourseCategoryDto>(category);
-            return Ok(updatedCourseCategoryDto);
+            var updatedCourseCategory = _mapper.Map<CourseCategoryDto>(category);
+            return Ok(updatedCourseCategory);
         }
 
         /// <summary>

@@ -7,7 +7,9 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using System.Text;
+using System.Text.Json.Serialization;
 using Udemy_WebApp.Application.DTO.MappingProfile;
+using Udemy_WebApp.Application.Interfaces.IFilesUploadService;
 using Udemy_WebApp.Application.Interfaces.IRepository;
 using Udemy_WebApp.Application.Interfaces.RoleServiceContract;
 using Udemy_WebApp.Application.Interfaces.UserServiceContracts;
@@ -15,6 +17,7 @@ using Udemy_WebApp.Domain.Models;
 using Udemy_WebApp.Infrastructure;
 using Udemy_WebApp.Infrastructure.Configurations;
 using Udemy_WebApp.Infrastructure.DataAccess;
+using Udemy_WebApp.Infrastructure.InterfaceImplementations.FilesUploadService;
 using Udemy_WebApp.Infrastructure.InterfaceImplementations.Repository;
 using Udemy_WebApp.Infrastructure.InterfaceImplementations.RoleService;
 using Udemy_WebApp.Infrastructure.InterfaceImplementations.UserServices;
@@ -29,6 +32,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("conStr"), b => b.MigrationsAssembly("Udemy_WebApp.Infrastructure"));
 });
+builder.Services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
 // Adding Identity as a Service
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
@@ -45,6 +50,7 @@ builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IRoleInitializeService, RoleInitializeService>();
 
 builder.Services.AddTransient<IConfigureOptions<SwaggerGenOptions>, ConfigureSwaggerOptions>();
+builder.Services.AddScoped<IFilesUploadService, FilesUploadService>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 builder.Services.AddControllers();

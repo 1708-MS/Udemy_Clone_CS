@@ -28,7 +28,7 @@ namespace Udemy_WebApp.WebApi.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             // Fetch all languages from the database using the GetAllAsync() method of the LanguageRepository.
-            var languagesFromDb = await _unitOfWork.LanguageRepository.GetAllAsync();
+            var languagesFromDb = await _unitOfWork.LanguageRepository.GetAllAsync(includeproperties:"Courses");
             // If no languages found, return a NotFound response with an error message.
             if (languagesFromDb == null) return NotFound("No Language exists in the database");
             // Return the list of languages with an Ok response.
@@ -76,8 +76,8 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.LanguageRepository.AddAsync(language);
             _unitOfWork.Save();
             // Map the created language back to the LanguageDto and return it as an OK response with the details of the added new language.
-            var createdLanguageDto = _mapper.Map<LanguageDto>(language);
-            return Ok(createdLanguageDto);
+            var createdLanguage = _mapper.Map<LanguageDto>(language);
+            return Ok(createdLanguage);
         }
 
         /// <summary>
@@ -104,8 +104,8 @@ namespace Udemy_WebApp.WebApi.Controllers
             await _unitOfWork.LanguageRepository.UpdateAsync(language);
             _unitOfWork.Save();
             // Map the updated language back to LanguageDto and return it as an OK response with the full details of the updated language.
-            var updatedLanguageDto = _mapper.Map<LanguageDto>(language);
-            return Ok(updatedLanguageDto);
+            var updatedLanguage = _mapper.Map<LanguageDto>(language);
+            return Ok(updatedLanguage);
         }
 
         /// <summary>

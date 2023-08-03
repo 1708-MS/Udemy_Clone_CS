@@ -156,6 +156,12 @@ E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.pdb
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.genruntimeconfig.cache
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\ref\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.AssemblyReference.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfoInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfo.cs
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CoreCompileInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.Development.json
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\appsettings.json
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.exe
@@ -217,13 +223,6 @@ E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.pdb
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.AssemblyReference.cache
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfoInputs.cache
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.AssemblyInfo.cs
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.csproj.CoreCompileInputs.cache
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Udemy_WebApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Udemy_WebApp.WebApi.props
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Udemy_WebApp.WebApi.props
@@ -238,3 +237,5 @@ E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.pdb
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.genruntimeconfig.cache
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\ref\Udemy_WebApp.WebApi.dll
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\bin\Debug\net6.0\Udemy_WebApp.WebApi.staticwebassets.runtime.json
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\obj\Debug\net6.0\Udemy_WebApp.WebApi.MvcApplicationPartsAssemblyInfo.cs

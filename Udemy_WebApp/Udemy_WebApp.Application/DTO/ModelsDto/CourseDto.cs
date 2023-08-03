@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,5 +24,7 @@ namespace Udemy_WebApp.Application.DTO.ModelsDto
         public int CourseCategoryId { get; set; }
         public int LevelId { get; set; }
         public int LanguageId { get; set; }
+        [DataType(DataType.Upload)]
+        public IFormFile Image { get; set; }
     }
 }

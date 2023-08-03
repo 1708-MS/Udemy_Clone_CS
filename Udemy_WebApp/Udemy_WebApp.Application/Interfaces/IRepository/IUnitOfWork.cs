@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Udemy_WebApp.Domain.Models;
 
 namespace Udemy_WebApp.Application.Interfaces.IRepository
 {
@@ -15,6 +16,7 @@ namespace Udemy_WebApp.Application.Interfaces.IRepository
         ILanguageRepository LanguageRepository { get; }
         ILevelRepository LevelRepository { get; }
         ICourseRepository CourseRepository { get; }
+        IRepository<CourseVideo> CourseVideosRepository { get; }
         void Save();
     }
 }
