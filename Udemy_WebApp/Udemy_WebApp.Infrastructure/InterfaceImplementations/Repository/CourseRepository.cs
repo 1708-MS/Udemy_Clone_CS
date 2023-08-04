@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Udemy_WebApp.Application.DTO.ModelsDto;
+using Udemy_WebApp.Application.Interfaces.IFileUploadService;
 using Udemy_WebApp.Application.Interfaces.IRepository;
 using Udemy_WebApp.Domain.Models;
 using Udemy_WebApp.Infrastructure.DataAccess;
@@ -14,9 +15,11 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.Repository
     public class CourseRepository : Repository<Course>, ICourseRepository
     {
         private readonly ApplicationDbContext _context;
-        public CourseRepository(ApplicationDbContext context) : base(context)
+        private readonly IFileUploadService _fileUploadService;
+        public CourseRepository(ApplicationDbContext context, IFileUploadService fileUploadService) : base(context)
         {
             _context = context;
+            _fileUploadService = fileUploadService;
         }
         public async Task UpdateAsync(Course course)
         {

@@ -17,7 +17,6 @@ namespace Udemy_WebApp.Domain.Exceptions
             this.StatusCode = (int)StatusCode;
         }
 
-
         public int StatusCode { get; set; }
     }
 }

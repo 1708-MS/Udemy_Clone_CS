@@ -1,12 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\Course123\\wp11165768-switzerland-4k-wallpapers.jpg",
-      "PackagePath": "staticwebassets\\Course123\\wp11165768-switzerland-4k-wallpapers.jpg"
-    },
-    {
-      "Id": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\Course1\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg",
-      "PackagePath": "staticwebassets\\Course1\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg"
+      "Id": "E:\\General Tasks CS\\Udemy_WebApp\\Udemy_WebApp\\Udemy_WebApp.WebApi\\wwwroot\\Asp.Net Core Web Api Version 6.0\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg",
+      "PackagePath": "staticwebassets\\Asp.Net Core Web Api Version 6.0\\Lake_Lucerne_Beautiful_View_in_Switzerland_Country_4K_Wallpapers.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Udemy_WebApp.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",

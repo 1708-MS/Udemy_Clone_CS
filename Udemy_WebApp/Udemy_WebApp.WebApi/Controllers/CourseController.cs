@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Udemy_WebApp.Application.DTO.ModelsDto;
-using Udemy_WebApp.Application.Interfaces.IFilesUploadService;
 using Udemy_WebApp.Application.Interfaces.IRepository;
 using Udemy_WebApp.Domain.Models;
 
@@ -13,12 +12,12 @@ namespace Udemy_WebApp.WebApi.Controllers
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
-        private readonly IFilesUploadService _filesUploadService;
-        public CourseController(IUnitOfWork unitOfWork, IMapper mapper, IFilesUploadService filesUploadService)
+        //private readonly IFilesUploadService _filesUploadService;
+        public CourseController(IUnitOfWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
-            _filesUploadService = filesUploadService;
+           // _filesUploadService = filesUploadService;
         }
 
         /// <summary>
@@ -48,16 +47,6 @@ namespace Udemy_WebApp.WebApi.Controllers
             {
                 ModelState.AddModelError("CouseTitle", "The Course Title already exists.");
                 return BadRequest(ModelState);
-            }
-
-            var imageResponse = _filesUploadService.UploadImage(courseDto.Image, "Images");
-            if (imageResponse.Exception == null)
-            {
-                courseDto.CourseImageUrl = imageResponse.Result;
-            }
-            else
-            {
-                return BadRequest(imageResponse.Result);
             }
             var course = _mapper.Map<Course>(courseDto);
 

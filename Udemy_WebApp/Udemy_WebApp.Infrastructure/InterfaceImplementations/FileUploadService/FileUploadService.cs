@@ -6,45 +6,37 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Udemy_WebApp.Application.Interfaces.IFilesUploadService;
+using Udemy_WebApp.Application.Interfaces.IFileUploadService;
 using Udemy_WebApp.Domain.Exceptions;
 
-namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.FilesUploadService
+namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.FileUploadService
 {
-    public class FilesUploadService : IFilesUploadService
+    public class FileUploadService : IFileUploadService
     {
-        private readonly ILogger<FilesUploadService> _logger;
-        public FilesUploadService(ILogger<FilesUploadService> logger)
+        private readonly ILogger<FileUploadService> _logger;
+        public FileUploadService(ILogger<FileUploadService> logger)
         {
-            _logger = logger;
+            _logger= logger;
         }
-
         // Gets the absolute path to the root directory for files.
-        private string PathRoot(string nameFile,string folder)
+        private string PathRoot(string nameFile)
         {
-            if (folder == null)
-            {
-                return Path.Combine(Environment.CurrentDirectory, nameFile);
-            }
-            else
-            {
-                return Path.Combine(Environment.CurrentDirectory, folder, nameFile);
-            }           
+            return Path.Combine(Environment.CurrentDirectory, "wwwroot", nameFile);
         }
-
         // Uploads a file to the server and returns the file name.
         private async Task<string> UploadFile(IFormFile file, string directory)
         {
             try
             {
-                var pathDirectory = PathRoot("Images",null);
+
+                var pathDirectory = PathRoot(directory);
 
                 if (!Directory.Exists(pathDirectory))
                 {
                     Directory.CreateDirectory(pathDirectory);
                 }
 
-                var path = PathRoot(Path.Combine(pathDirectory, file.FileName),null);
+                var path = PathRoot(Path.Combine(pathDirectory, file.FileName));
 
                 // Creates a file stream and copies the uploaded file to it.
                 using FileStream fileStream = new(path, FileMode.Create);
@@ -62,7 +54,7 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.FilesUploadServic
         public async Task<byte[]> GetFile(string fileName)
         {
             // Gets the file path.
-            var path = PathRoot(fileName, "Images");
+            var path = PathRoot(fileName);
 
             // Reads the file into a byte array and returns it.
             return await System.IO.File.ReadAllBytesAsync(path);
@@ -123,9 +115,9 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.FilesUploadServic
         /// </summary>
         /// <param name="file">The file to delete. This can be a relative or absolute path.</param>
         /// <returns>A task that represents the asynchronous file deletion operation.</returns>
-        public async Task DeleteAsync(string imageName)
+        public async Task DeleteAsync(string path)
         {
-            var fullPath = PathRoot(imageName, "Images");
+            var fullPath = PathRoot(path);
             if (System.IO.File.Exists(fullPath))
             {
                 try
@@ -150,7 +142,7 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.FilesUploadServic
             }
             else
             {
-                _logger.LogError($"Failed to delete {imageName}");
+                _logger.LogError($"Failed to delete {path}");
             }
         }
     }

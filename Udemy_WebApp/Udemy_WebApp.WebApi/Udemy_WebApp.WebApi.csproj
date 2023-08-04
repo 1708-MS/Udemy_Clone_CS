@@ -28,4 +28,8 @@
     <None Include="F:\Web Development\Udemy WebApp\Udemy_WebApp\Udemy_WebApp.WebApi\.editorconfig" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>

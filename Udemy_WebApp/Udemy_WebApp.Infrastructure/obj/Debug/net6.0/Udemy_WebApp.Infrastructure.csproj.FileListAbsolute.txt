@@ -36,11 +36,6 @@ E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.pdb
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.genruntimeconfig.cache
 E:\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp_.NetCoreWebApi_React.js-master\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\ref\Udemy_WebApp.Infrastructure.dll
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.csproj.AssemblyReference.cache
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.AssemblyInfoInputs.cache
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.AssemblyInfo.cs
-E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.csproj.CoreCompileInputs.cache
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.deps.json
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.runtimeconfig.json
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Infrastructure.dll
@@ -49,6 +44,11 @@ E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\De
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Domain.dll
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Application.pdb
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\bin\Debug\net6.0\Udemy_WebApp.Domain.pdb
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.csproj.AssemblyReference.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.AssemblyInfoInputs.cache
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.AssemblyInfo.cs
+E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.csproj.CoreCompileInputs.cache
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.csproj.CopyComplete
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\Udemy_WebApp.Infrastructure.dll
 E:\General Tasks CS\Udemy_WebApp\Udemy_WebApp\Udemy_WebApp.Infrastructure\obj\Debug\net6.0\refint\Udemy_WebApp.Infrastructure.dll

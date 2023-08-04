@@ -1,18 +1,18 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Udemy_WebApp.Application.Interfaces.IFilesUploadService;
+using Udemy_WebApp.Application.Interfaces.IFileUploadService;
 using Udemy_WebApp.Application.Interfaces.IRepository;
 
 namespace Udemy_WebApp.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class FilesUploadController : ControllerBase
+    public class FileUploadController : ControllerBase
     {
-        private readonly IFilesUploadService _filesUploadService;
+        private readonly IFileUploadService _filesUploadService;
         private readonly IUnitOfWork _unitOfWork;
-        public FilesUploadController(IFilesUploadService filesUploadService, IUnitOfWork unitOfWork)
+        public FileUploadController(IFileUploadService filesUploadService, IUnitOfWork unitOfWork)
         {
             _filesUploadService = filesUploadService;
             _unitOfWork = unitOfWork;
@@ -29,7 +29,7 @@ namespace Udemy_WebApp.WebApi.Controllers
             // Upload the image 
             string imageName = await _filesUploadService.UploadImage(file, directory);
             // Return the name of the uploaded image in a BaseResponse object
-            return Ok("Image uploaded successfully. \n Image Name = "+imageName);
+            return Ok("Image uploaded successfully");
         }
 
         /// <summary>
@@ -43,7 +43,10 @@ namespace Udemy_WebApp.WebApi.Controllers
             // Retrieve the image using the files service
             var imageStream = await _filesUploadService.GetFile(imageName);
 
-            if (imageStream == null) return NotFound();
+            if (imageStream == null)
+            {
+                return NotFound();
+            }
 
             // Return the image as a JPEG file
             return File(imageStream, "image/jpeg");
@@ -59,34 +62,7 @@ namespace Udemy_WebApp.WebApi.Controllers
         public async Task<IActionResult> UploadVideo(IFormFile file, string directory)
         {
             string videoName = await _filesUploadService.UploadVideo(file, directory);
-            return Ok("Successfully uploaded video");
-        }
-
-        /// <summary>
-        /// Retrieves a video file by name, provided that the user is authorized to view it.
-        /// </summary>
-        /// <remarks>
-        /// This endpoint requires the user to be authenticated and authorized to view the requested video. 
-        /// If the user is not authorized, the endpoint returns an Unauthorized status code (401).
-        /// If the requested video does not exist, the endpoint returns a NotFound status code (404).
-        /// </remarks>
-        /// <param name="videoName">The name of the video file to retrieve.</param>
-        /// <returns>The requested video file.</returns>
-        [AllowAnonymous]
-        [HttpGet("Videos")]
-        public async Task<IActionResult> GetVideo(string videoName)
-        {
-            // Find the video by its name
-            var video = _unitOfWork.CourseVideosRepository.FirstOrDefault();
-            if (video == null) return NotFound();
-
-            var videoFile = await _filesUploadService.GetFile(videoName);
-            if (videoFile == null) return NotFound();
-
-            // Return the video file as a FileStreamResult with the appropriate MIME type and file name
-            var stream = new MemoryStream(videoFile);
-            return File(stream, "video/mp4");
-
+            return Ok("Successfully uploaded video.");
         }
     }
 }

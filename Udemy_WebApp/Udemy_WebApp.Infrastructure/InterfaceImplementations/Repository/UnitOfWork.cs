@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Udemy_WebApp.Application.Interfaces.IFileUploadService;
 using Udemy_WebApp.Application.Interfaces.IRepository;
 using Udemy_WebApp.Domain.Models;
 using Udemy_WebApp.Infrastructure.DataAccess;
@@ -13,13 +14,13 @@ namespace Udemy_WebApp.Infrastructure.InterfaceImplementations.Repository
     public class UnitOfWork : IUnitOfWork
     {
         private readonly ApplicationDbContext _context;
-        public UnitOfWork(ApplicationDbContext context)
+        public UnitOfWork(ApplicationDbContext context, IFileUploadService _fileUploadService)
         {
             _context = context;
             CourseCategoryRepository = new CourseCategoryRepository(_context);
             LanguageRepository = new LanguageRepository(_context);
             LevelRepository = new LevelRepository(_context);
-            CourseRepository = new CourseRepository(_context);
+            CourseRepository = new CourseRepository(_context, _fileUploadService);
         }
 
         public void Save()

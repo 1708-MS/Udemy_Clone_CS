@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Udemy_WebApp.Application.Interfaces.IFilesUploadService
+namespace Udemy_WebApp.Application.Interfaces.IFileUploadService
 {
-    public interface IFilesUploadService
+    public interface IFileUploadService
     {
         Task<byte[]> GetFile(string filesName);
         Task<string> UploadImage(IFormFile file, string directory);
